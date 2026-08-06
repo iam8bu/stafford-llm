@@ -9,6 +9,8 @@ base_model:
 
 # Model Card for Model ID
 
+🤗 **[View and download STAFFORD on Hugging Face](https://huggingface.co/iam8bu/stafford-llm)**
+
 <!-- Provide a quick summary of what the model is/does. -->
 
 Welcome to STAFFORD (Start/Trade/Add Fantasy Football Optimized Reasoning Decision-maker), a fantasy football LLM trained to answer any start/sit dillema, trade offer, or waiver decision you can come up with. 
